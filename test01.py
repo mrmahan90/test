@@ -2,7 +2,7 @@ import os
 import sys
 import datetime
 
-### Hej!
+### Test nr 2!
 class UltimateTracker():
     def __init__(self):
         self.dateNow = datetime.date.today()
